@@ -1,0 +1,13 @@
+git -- 
+  manage our source code history, 
+  is a software, 
+  focuses on version control and code sharing, 
+  no user , 
+  management feature, 
+  locally installed on the system, 
+github -- 
+  provide platform for git, 
+  is a service, 
+  focuses on centralized sharing of code hosting, 
+  built in user managment feature, 
+  hosted on the web, 
