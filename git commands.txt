@@ -1,3 +1,0 @@
-git init -- to initialize local repository.
-git add . -- add all changes in file
-git commit -a -m "write any message for committing"
